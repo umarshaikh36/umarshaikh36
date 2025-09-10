@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaikh Umar Farooque</h1>
 <h3 align="center">A passionate Cloud Computing enthusiast and recent BSc IT graduate, exploring the world of AWS and scalable architectures</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umars604&label=Profile%20views&color=0e75b6&style=flat" alt="umars604" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarshaikh36&label=Profile%20views&color=0e75b6&style=flat" alt="umars604" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umars604" alt="umars604" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarshaikh36" alt="umarshaikh36" /></a> </p>
 
 - 🔭 I’m currently working on *AWS Free Tier Projects(EC2,S3,Lambda,IAM,VPC)*
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/umarshaikh1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umarshaikh1822" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
