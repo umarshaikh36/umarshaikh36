@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarshaikh36" alt="umarshaikh36" /></a> </p>
 
-- 🔭 I’m currently working on *AWS Free Tier Projects(EC2,S3,Lambda,IAM,VPC)*
+- 🔭 I’m currently working on *AWS Free Tier Projects(EC2,S3,Lambda,IAM,VPC,Cloudwatch,RDS)*
 
 - 🌱 I’m currently learning *AWS Cloud Practitioner & AWS Solution Architect*
 
