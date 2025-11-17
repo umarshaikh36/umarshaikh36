@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarshaikh36" alt="umarshaikh36" /></a> </p>
 
-- 🔭 I’m currently working on *AWS Free Tier Projects(EC2,S3,Lambda,IAM,VPC,Cloudwatch,RDS)*
+- 🔭 I’m skilled in  *AWS Services mainly(EC2,S3,Lambda,IAM,VPC,Cloudwatch,RDS)*
 
-- 🌱 I’m currently learning *AWS Cloud Practitioner & AWS Solution Architect*
+- 🌱 I’m a Certified *AWS Cloud Practitioner & AWS Solution Architect*
 
 - 👯 I’m looking to collaborate on *Cloud based open source projects & DevOps tools*
 
