@@ -1,29 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shaikh Umar Farooque</h1>
-<h3 align="center">A passionate Cloud Computing enthusiast and recent BSc IT graduate, exploring the world of AWS and scalable architectures</h3>
+<h1 align="center">Hi 👋, I'm Umar Shaikh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarshaikh36&label=Profile%20views&color=0e75b6&style=flat" alt="umars604" /> </p>
+<h3 align="center">
+AWS Certified Solutions Architect – Associate | IT Engineer | Cloud & DevOps Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarshaikh36" alt="umarshaikh36" /></a> </p>
+---
 
-- 🔭 I’m skilled in  *AWS Services mainly(EC2,S3,Lambda,IAM,VPC,Cloudwatch,RDS)*
+## 🚀 About Me
 
-- 🌱 I’m a Certified *AWS Cloud Practitioner & AWS Solution Architect*
+- 💼 Currently working as an IT Engineer
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🔐 Experience in Identity & Access Management (IAM)
+- 📊 Infrastructure Monitoring using Zabbix, Nagios & Nutanix
+- 🖥️ Microsoft Intune & Endpoint Administration
+- 🐳 Learning Docker, Linux & CI/CD
+- 🎯 Targeting Cloud Engineer & DevOps opportunities
 
-- 👯 I’m looking to collaborate on *Cloud based open source projects & DevOps tools*
+---
 
-- 💬 Ask me about *Cloud Computing,Serverless,GitHub,Tech Documentation*
+## 🛠️ Technologies & Tools
 
-- 📫 How to reach me *umarshaikh1822@gmail.com*
+### Cloud
+AWS (EC2, S3, IAM, VPC, CloudWatch, ALB)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### DevOps
+Docker • Git • GitHub Actions • CI/CD
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Operating Systems
+Linux • Windows
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarshaikh36&show_icons=true&locale=en&layout=compact" alt="umarshaikh36" /></p>
+### Monitoring
+Zabbix • Nagios • Nutanix
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarshaikh36&show_icons=true&locale=en" alt="umarshaikh36" /></p>
+### IT Operations
+ServiceNow • Microsoft Intune
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarshaikh36&" alt="umarshaikh36" /></p>
+---
+
+## 📂 Featured Projects
+
+### 🔹 AWS EC2 Apache Web Server
+Deployed and configured an Apache web server on AWS EC2.
+
+### 🔹 AWS Application Load Balancer
+Implemented traffic distribution across multiple EC2 instances using ALB and Target Groups.
+
+### 🔹 AWS Static Website Hosting
+Hosted a static website using S3 and CloudFront.
+
+### 🔹 Dockerized Web Application
+Containerized and deployed a web application using Docker.
+
+---
+
+## 📜 Certifications
+
+✅ AWS Certified Solutions Architect – Associate
+
+✅ AWS Certified Cloud Practitioner
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/umarshaikh1822
+
+GitHub:
+github.com/umarshaikh36
+
+Email:
+umarshaikh1822@gmail.com
