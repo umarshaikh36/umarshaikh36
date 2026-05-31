@@ -1,73 +1,123 @@
 <h1 align="center">Hi 👋, I'm Umar Shaikh</h1>
 
 <h3 align="center">
-AWS Certified Solutions Architect – Associate | IT Engineer | Cloud & DevOps Enthusiast
+AWS Certified Solutions Architect – Associate
 </h3>
 
----
+<h3 align="center">
+IT Engineer | Cloud & DevOps Enthusiast
+</h3>
 
-## 🚀 About Me
+<p align="center">
+Passionate about Cloud Computing, Infrastructure, Automation, and DevOps.
+</p>
 
-- 💼 Currently working as an IT Engineer
-- ☁️ AWS Certified Solutions Architect – Associate
-- 🔐 Experience in Identity & Access Management (IAM)
-- 📊 Infrastructure Monitoring using Zabbix, Nagios & Nutanix
-- 🖥️ Microsoft Intune & Endpoint Administration
-- 🐳 Learning Docker, Linux & CI/CD
-- 🎯 Targeting Cloud Engineer & DevOps opportunities
+<hr>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🛠️ Technologies & Tools
+<p align="center">
+💼 Currently working as an IT Engineer
+</p>
 
-### Cloud
-AWS (EC2, S3, IAM, VPC, CloudWatch, ALB)
+<p align="center">
+☁️ AWS Certified Solutions Architect – Associate
+</p>
 
-### DevOps
-Docker • Git • GitHub Actions • CI/CD
+<p align="center">
+🔐 Experience in IAM, ServiceNow, Intune & Enterprise IT Operations
+</p>
 
-### Operating Systems
-Linux • Windows
+<p align="center">
+📊 Infrastructure Monitoring using Zabbix, Nagios & Nutanix
+</p>
 
-### Monitoring
-Zabbix • Nagios • Nutanix
+<p align="center">
+🐳 Learning Docker, Linux, CI/CD & Cloud Architecture
+</p>
 
-### IT Operations
-ServiceNow • Microsoft Intune
+<p align="center">
+🎯 Targeting Cloud Engineer & DevOps Opportunities
+</p>
 
----
+<hr>
 
-## 📂 Featured Projects
+<h2 align="center">🌐 Connect With Me</h2>
 
-### 🔹 AWS EC2 Apache Web Server
-Deployed and configured an Apache web server on AWS EC2.
+<p align="center">
+<a href="https://www.linkedin.com/in/umarshaikh1822">
+LinkedIn
+</a>
+•
+<a href="https://github.com/umarshaikh36">
+GitHub
+</a>
+•
+<a href="mailto:umarshaikh1822@gmail.com">
+Email
+</a>
+</p>
 
-### 🔹 AWS Application Load Balancer
-Implemented traffic distribution across multiple EC2 instances using ALB and Target Groups.
+<hr>
 
-### 🔹 AWS Static Website Hosting
-Hosted a static website using S3 and CloudFront.
+<h2 align="center">⚡ Tech Stack</h2>
 
-### 🔹 Dockerized Web Application
-Containerized and deployed a web application using Docker.
+<h3 align="center">Cloud & DevOps</h3>
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
 
-## 📜 Certifications
+<h3 align="center">Enterprise Tools</h3>
 
+<p align="center">
+ServiceNow • Microsoft Intune • Zabbix • Nagios
+</p>
+
+<hr>
+
+<h2 align="center">📂 Featured Projects</h2>
+
+<p align="center">
+🔹 AWS EC2 Apache Web Server
+</p>
+
+<p align="center">
+🔹 AWS Application Load Balancer
+</p>
+
+<p align="center">
+🔹 AWS Static Website Hosting
+</p>
+
+<p align="center">
+🔹 Dockerized Web Application
+</p>
+
+<hr>
+
+<h2 align="center">📜 Certifications</h2>
+
+<p align="center">
 ✅ AWS Certified Solutions Architect – Associate
+</p>
 
+<p align="center">
 ✅ AWS Certified Cloud Practitioner
+</p>
 
----
+<hr>
 
-## 📫 Connect With Me
+<h2 align="center">📈 GitHub Stats</h2>
 
-LinkedIn:
-www.linkedin.com/in/umarshaikh1822
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=umarshaikh36&show_icons=true" />
+</p>
 
-GitHub:
-github.com/umarshaikh36
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarshaikh36" />
+</p>
 
-Email:
-umarshaikh1822@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarshaikh36&layout=compact" />
+</p>
